@@ -21,25 +21,25 @@ emao-plus 是基于 FIS，应用于后端是 PHP，模板是 Smarty 的场景。
     - 安装[php-cgi](http://www.apachefriends.org/)
 
     - 安装emao-plus
-    ```Bash
+```Bash
             npm install -g emao-plus
             emaop -v
-    ```
+```
     - 初始化server
-    ```Bash
+```Bash
             emaop server init
     - 开启server
-    ```Bash
+```Bash
             emaop server start
-    ```
+```
     - 检出脚手架demo
-    ```Bash
+```Bash
             emaop init pc-demo
-    ```
+```
     - 执行发布
-    ```Bash
+```Bash
             emaop release -wL
-    ```
+```
 
 
 
@@ -48,27 +48,27 @@ emao-plus 是基于 FIS，应用于后端是 PHP，模板是 Smarty 的场景。
     - 开发人员只需要维护src目录即可
     - 开发完成之后执行build.bat会自动生成build目录
 >src
->>common
->>>page
->>>plugin
->>>static
->>>test
->>>widget
->>>build.bat
->>>build.sh
->>>fis-conf.js
->>>fis-online-conf.js
->>>server.conf
->>home
->>>page
->>>static
->>>test
->>>widget
->>>build.bat
->>>build.sh
->>>fis-conf.js
->>>fis-online-conf.js
->>>server.conf
+    >>common
+        >>>page
+        >>>plugin
+        >>>static
+        >>>test
+        >>>widget
+        >>>build.bat
+        >>>build.sh
+        >>>fis-conf.js
+        >>>fis-online-conf.js
+        >>>server.conf
+    >>home
+        >>>page
+        >>>static
+        >>>test
+        >>>widget
+        >>>build.bat
+        >>>build.sh
+        >>>fis-conf.js
+        >>>fis-online-conf.js
+        >>>server.conf
 
 
 
