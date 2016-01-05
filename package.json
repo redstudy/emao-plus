@@ -1,6 +1,6 @@
 {
   "name": "emao-plus",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Front End Integrated Solution for smarty",
   "main": "emao-plus.js",
   "bin": {

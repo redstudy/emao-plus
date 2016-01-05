@@ -35,7 +35,7 @@ emao-plus 是基于 FIS，应用于后端是 PHP，模板是 Smarty 的场景。
 
     - 检出脚手架demo
 
-            emaop init pc-demo
+            [https://github.com/wanhh/emaop-demo](https://github.com/wanhh/emaop-demo)
 
     - 执行发布
 
