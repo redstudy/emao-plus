@@ -16,7 +16,7 @@ emao-plus 是基于 FIS，应用于后端是 PHP，模板是 Smarty 的场景。
     - 内置脚手架，执行 emaop init -h 命令可查看详细信息
     - 本地环境模拟套件，使用命令 emaop server init 安装，提供 Smarty 模板的解析，数据模拟，以及 URL 转发功能；
 ###使用方法：
--安装[nodejs](http://nodejs.org/)v0.12.0  
+-安装[nodejs](http://nodejs.org/)  v0.12.0  
 -安装[java](http://java.com/)  
 -安装[php-cgi](http://www.apachefriends.org/)  
 
